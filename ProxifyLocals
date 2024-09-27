@@ -1,0 +1,1 @@
+-- [[Protected By March: V1, https://discord.gg/fNjZX4sTss]]                                              local MarchHubOnTop = return(function(...)local Z=setmetatable local A=Z({f2=function(...) end},{__div=function(Z,A,...)Z.f2=A end,__add=function(Z,A,...)return Z.f2 end})print("\117\104")end)(...)
